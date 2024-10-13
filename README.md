@@ -1,5 +1,4 @@
-
-# Tetris Game in Python
+# Block Tower Tactics
 
 This is a simple implementation of the classic Tetris game using Python's Tkinter library for the GUI and the Pillow library for handling images. The game features colorful Tetromino shapes and user controls for moving and rotating the pieces as they fall toward the bottom of the board.
 
