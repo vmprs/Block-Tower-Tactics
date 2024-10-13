@@ -41,9 +41,13 @@ Before running the game, ensure you have the following:
 
 1. After ensuring all dependencies are installed and the font is added to your system, download or clone this repository.
 
-2. Navigate to the directory where the game files are located.
+   ```markdown
+   git clone https://github.com/vmprs/Block-Tower-Tactics.git
+   ```
 
-3. Run the game by clicking the .pyw script.
+3. Navigate to the directory where the game files are located.
+
+4. Run the game by clicking the .pyw script.
 
 ## Controls
 
