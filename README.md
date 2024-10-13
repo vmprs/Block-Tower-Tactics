@@ -43,13 +43,7 @@ Before running the game, ensure you have the following:
 
 2. Navigate to the directory where the game files are located.
 
-3. Run the game using the following command:
-
-   ```bash
-   python tetris.py
-   ```
-
-   (Replace `tetris.py` with the name of your main Python file if it's different.)
+3. Run the game by clicking the .pyw script.
 
 ## Controls
 
