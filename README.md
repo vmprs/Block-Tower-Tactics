@@ -1,6 +1,6 @@
 Here's the updated content for your README file, formatted using Markdown style for use on GitHub:
 
-```markdown
+
 # Tetris Game in Python
 
 This is a simple implementation of the classic Tetris game using Python's Tkinter library for the GUI and the Pillow library for handling images. The game features colorful Tetromino shapes and user controls for moving and rotating the pieces as they fall toward the bottom of the board.
@@ -21,7 +21,7 @@ Before running the game, ensure you have the following:
 
 2. **Pillow Library**: You will need the Pillow library to handle images. You can install it using pip:
 
-   ```bash
+   ```markdown
    pip install Pillow
    ```
 
