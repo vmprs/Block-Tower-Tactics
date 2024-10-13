@@ -206,5 +206,6 @@ class TetrisGame:
 # Run the game
 if __name__ == "__main__":
     root = tk.Tk()
+    root.configure(bg='black')
     game = TetrisGame(root)
     root.mainloop()
