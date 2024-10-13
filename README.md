@@ -28,6 +28,8 @@ Before running the game, ensure you have the following:
 3. **Press Start 2P Font**: This game uses the **Press Start 2P** font for displaying text. You must install the font on your system; otherwise, the game may not display text properly. You can download the font from:
 
    - [Press Start 2P Font](https://www.fontsquirrel.com/fonts/press-start-2p)
+    or
+   - The font provided in the download link.
 
    After downloading, install the font by following your operating system's font installation instructions.
 
