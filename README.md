@@ -10,6 +10,13 @@ This is a simple implementation of the classic Tetris game using Python's Tkinte
 - Background image
 - Responsive controls using keyboard input
 
+## Changing The Background
+
+Changing the background is as easy as pie, open the code in an editor (Notepad++ or just classic Notepad)
+Place your background in the bg folder and call it whatever
+and then, when you in the code, you will see bg\bg0.jpg - change bg0.jpg to yourimagename.jpg
+Kaboom, you changed the background.
+
 ## Prerequisites
 
 Before running the game, ensure you have the following:
