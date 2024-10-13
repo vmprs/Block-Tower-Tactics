@@ -34,7 +34,7 @@ COLORS = {
 class TetrisGame:
     def __init__(self, root):
         self.root = root
-        self.root.title("Tetris Game")
+        self.root.title(""Block Tower Tactics")
         self.root.resizable(False, False)  # Prevent window resizing
 
         # Load background image from bg/bg0.jpg
