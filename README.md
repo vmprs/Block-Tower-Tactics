@@ -1,5 +1,3 @@
-Here's the updated content for your README file, formatted using Markdown style for use on GitHub:
-
 
 # Tetris Game in Python
 
